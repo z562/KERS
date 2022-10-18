@@ -15,6 +15,7 @@ We provide the code for our dialog model.
     to generate response
 
 # Citation
+```
 @inproceedings{zhang-etal-2021-kers-knowledge,
     title = "{KERS}: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals",
     author = "Zhang, Jun  and
@@ -31,3 +32,4 @@ We provide the code for our dialog model.
     doi = "10.18653/v1/2021.findings-emnlp.94",
     pages = "1092--1101",
 }
+```
